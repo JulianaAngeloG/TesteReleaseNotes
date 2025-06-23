@@ -3,7 +3,7 @@ title: Guia do usuário
 excerpt: >-
   Saiba o que é a Data Platform Sankhya e conheça suas principais
   funcionalidades
-hidden: false
+hidden: true
 ---
 # O que é a Data Platform Sankhya?
 
