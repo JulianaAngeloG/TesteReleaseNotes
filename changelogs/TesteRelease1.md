@@ -1,3 +1,7 @@
+---
+title: Release Notes v1.4.1
+---
+
 Release Notes — v1.4.1
 
 🔧 Correções e Melhorias de Estabilidade
